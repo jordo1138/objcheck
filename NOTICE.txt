@@ -1,0 +1,9 @@
+ObjCheck
+Copyright 2019 LightStep
+
+AWS X-Ray SDK for Go
+Copyright 2017-2017 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+Modifications to AWS X-Ray SDK for Go for OpenTracing
+Copyright 2019 LightStep
+
